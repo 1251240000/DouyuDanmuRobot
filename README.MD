@@ -3,7 +3,7 @@
 
 ## 安装
 #### 克隆项目至本地：
-``
+`https://github.com/1251240000/DouyuDanmuRobot.git`
 
 #### 安装环境：
 `pip3 install -Ur requirements.txt`
