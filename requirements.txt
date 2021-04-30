@@ -178,7 +178,7 @@ sqlparse==0.3.0
 toml==0.10.1
 tushare==1.2.48
 typed-ast==1.4.1
-urllib3==1.25.7
+urllib3==1.25.8
 wakeonlan==1.1.6
 websocket-client==0.57.0
 wrapt==1.12.1
